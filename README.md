@@ -4,7 +4,7 @@ A 2D top-down action-adventure game built with **Unity** and **C#**, inspired by
 
 **Play it here:** [pedro-parker.itch.io/dayo](https://pedro-parker.itch.io/dayo)
 
-![Dayo gameplay](Screenshots/2.png)
+![Dayo gameplay](Screenshots/Dayo.png)
 
 ## About the Game
 
