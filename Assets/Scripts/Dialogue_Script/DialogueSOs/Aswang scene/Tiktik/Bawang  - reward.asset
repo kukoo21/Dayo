@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Bawang  - reward
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 6ef38940e31648045bb9f5f8654c24fa, type: 2}
+    text: Bawang
+  options:
+  - optionText: Next
+    nextDialogue: {fileID: 11400000, guid: ad78b8148cac4234c8f0e03273b5df1d, type: 2}
+  isRewardDialogue: 1
+  sceneToLoad: 
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: -8944997348610683000, guid: afd7d65b353cc1a469bcd1e09a8d1e45, type: 3}
+  givesItemReward: 1
+  rewardItemPrefab: {fileID: 2717208999528145673, guid: 51f29d0d758aa0c4da7cce5fd91a6da9, type: 3}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}
+  requiredObjectiveID: 
+  requiredObjectiveAmount: 0

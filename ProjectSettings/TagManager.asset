@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Lamp
+  - QuestItem
+  - Grass
+  - Dirt
+  - Floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2789509575
+    locked: 0
+  - name: Cloud
+    uniqueID: 3856784073
+    locked: 0
+  - name: BG
+    uniqueID: 2027902491
+    locked: 0
+  - name: Creatures
+    uniqueID: 2639418077
+    locked: 0
+  - name: Foreground
+    uniqueID: 2695040621
+    locked: 0
+  - name: 
+    uniqueID: 2396684775
+    locked: 0
+  m_RenderingLayers:
+  - Default

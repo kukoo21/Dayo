@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: fish_anim
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5908567509089190487, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 1144476254, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 567586264, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: -1359928541, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 1095913211, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 1408958360, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 939412439, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: -1103326469, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: -541970951, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 1380975763, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: -441433851, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 855186708, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 153083983, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: -1782574457, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 1211796655, guid: de007068a6707854d87057552164f34f, type: 3}
+  - {fileID: 2087391674, guid: de007068a6707854d87057552164f34f, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 14
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

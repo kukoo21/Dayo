@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Reward - anting-anting
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 6ef38940e31648045bb9f5f8654c24fa, type: 2}
+    text: Anting-anting
+  options:
+  - optionText: Next
+    nextDialogue: {fileID: 11400000, guid: 7ebd19a628f998441b89ddd1de322e9e, type: 2}
+  isRewardDialogue: 1
+  sceneToLoad: 
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 6244991226047437662, guid: 5f056304be024b943b07f6f3ea4196f6, type: 3}
+  givesItemReward: 1
+  rewardItemPrefab: {fileID: 1827259613521777229, guid: 6a327c12ad0de2841a8d6a63ae4d566b, type: 3}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}

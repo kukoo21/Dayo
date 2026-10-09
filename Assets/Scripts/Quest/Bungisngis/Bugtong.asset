@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8e5518b832c3641bc73d4ff459f9a8, type: 3}
+  m_Name: Bugtong
+  m_EditorClassIdentifier: 
+  questID: _72efa880-6c99-41a8-8373-426d0722a463
+  questName: Gubat ng Pandaraya
+  questChapter: Chapter 3
+  questDescription: Give 3 correct answer for the riddles.
+  objectives:
+  - objectiveID: WinRiddle
+    description: 'Correct answers:'
+    type: 5
+    requiredAmount: 3
+    currentAmount: 0

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Dialogue_MM
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Woah...sobrang cool dito!
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Ikaw po ba lahat gumawa ng mga 'to?
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Aba, oo naman! Hinahanda ko 'yan para sa Pista.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Pista? Ayos! Para saan po 'yan?
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Kaugalian 'yan dito. Lahat nagsusuot ng maskara para magsaya.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Wala ka namang maskara, 'no?
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Wala po, kakarating ko lang po kasi.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: O, eto, kunin mo na 'tong isa.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Seryoso?! Thank you po!
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Wala 'yun.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Wag mo lang sanang gamitin sa gulo.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  options:
+  - optionText: OK
+    nextDialogue: {fileID: 11400000, guid: 66c1a0c6278e9944288d459cd0e9ed6d, type: 2}
+  isRewardDialogue: 0
+  sceneToLoad: 
+  postDialogueImages: []
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}
+  requiredObjectiveID: 
+  requiredObjectiveAmount: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8e5518b832c3641bc73d4ff459f9a8, type: 3}
+  m_Name: Amaranhig Quest 2
+  m_EditorClassIdentifier: 
+  questID: _5d3bb872-2c07-427b-a772-883d15a1a0a5
+  questName: Gabi ng mga Zombie - Part 2
+  questChapter: 2
+  questDescription: Defeat hordes of Amaranhigs.
+  objectives:
+  - objectiveID: Defeat_Amaranhig2
+    description: Defeat Amaranhig
+    type: 1
+    requiredAmount: 10
+    currentAmount: 0

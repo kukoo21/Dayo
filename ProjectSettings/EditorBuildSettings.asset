@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome Scene.unity
+    guid: e3e985ff6c1f3d34d8ae616e7834607f
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: abc2cf28e8b45124bbba8db3c778eee6
+  - enabled: 1
+    path: Assets/Scenes/Cutscene - 1.unity
+    guid: dfc3fa4985dfcc04e92d84f26cff0441
+  - enabled: 0
+    path: Assets/Scenes/Cutscene - 1(scrap).unity
+    guid: 5fd5e31dc1aaeb646a99b983517be640
+  - enabled: 1
+    path: Assets/Scenes/PlayerHouse.unity
+    guid: 5f705535048ad3d4ebd0b35df7c983fa
+  - enabled: 1
+    path: Assets/Scenes/Town/Town.unity
+    guid: 9d16f2849e2cf5c4d9320ab6f728dd7d
+  - enabled: 1
+    path: Assets/Scenes/Tuts/Tut.unity
+    guid: aa843930d7f5dda4c89749a81b55d513
+  - enabled: 1
+    path: Assets/Scenes/Tuts/Tut 1.unity
+    guid: d42febaa94a5b7643a8dff18781ada33
+  - enabled: 1
+    path: Assets/Scenes/Tuts/Tut 2.unity
+    guid: 1162c267a8b824d48b575c26f8e4340b
+  - enabled: 1
+    path: Assets/Scenes/Tuts/Tut 3.unity
+    guid: 2d75c801f769310419b819a509838a18
+  - enabled: 1
+    path: Assets/Scenes/Tuts/Tut 4.unity
+    guid: 8f893beca5174f548b63a8cddd10c048
+  - enabled: 1
+    path: Assets/Scenes/White Lady/White Lady.unity
+    guid: 2ac876406f9033a4d80112703523efe6
+  - enabled: 1
+    path: Assets/Scenes/White Lady/Church.unity
+    guid: e7fec0e1caad0bd48b26868886f9f7b5
+  - enabled: 1
+    path: Assets/Scenes/White Lady/Church 1.unity
+    guid: be68399f7876dc84ea354ce53b8564a3
+  - enabled: 1
+    path: Assets/Scenes/White Lady/White Lady 2.unity
+    guid: 5f3e35fdb7223dd4eb5b1d44fc00e115
+  - enabled: 1
+    path: Assets/Scenes/White Lady/White Lady - To Church.unity
+    guid: 8b33d3ef294aa3b4c8334e4f5e57c819
+  - enabled: 1
+    path: Assets/Scenes/Amaranhig/Amaranhig.unity
+    guid: 1c2d2cd7d0d59ea4596b5f17f5abb75e
+  - enabled: 0
+    path: Assets/Scenes/Amaranhig/Amaranhig 2.unity
+    guid: af4bf9a40a89b6d4e8ea1e03acffff9f
+  - enabled: 1
+    path: Assets/Scenes/Bungisngis/Bungisngis.unity
+    guid: b83bef6227cb88f429f702dbeed6a07d
+  - enabled: 1
+    path: Assets/Scenes/Aswang/Tiktik.unity
+    guid: e021ffa3fb589534aa63246d343d0b91
+  - enabled: 1
+    path: Assets/Scenes/Aswang/Wakwak.unity
+    guid: 007793e4b234fa945829366ec637e17f
+  - enabled: 1
+    path: Assets/Scenes/Mambabarang/Mambabarang - Town.unity
+    guid: 8cf78ac214c5451468670a5e7dc42ecd
+  - enabled: 1
+    path: Assets/Scenes/Mambabarang/Mambabarang - Insect.unity
+    guid: 527d04a70b5a6df4ba4a04c5aa59b3dd
+  - enabled: 1
+    path: Assets/Scenes/Mambabarang/Mambabarang - Cutscene.unity
+    guid: cc3779488e426ba498793981f612b43d
+  - enabled: 1
+    path: Assets/Scenes/Mambabarang/Mambabarang - Cutscene 2.unity
+    guid: 1d22c77a74233224186d588fe12c3359
+  - enabled: 1
+    path: Assets/Scenes/Mambabarang/Mambabarang - Final.unity
+    guid: ed31742bc3c92b340acb777b3a8b6eb9
+  - enabled: 1
+    path: Assets/Scenes/Town/Final Town.unity
+    guid: 3adda91f15fdf194cafa863c22a823f5
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 46dc701624cda4c409bb6031970bfa3c
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a3d851b2a96fed34fb51a56ecf2799b6
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ed199ca822a299b4b935f6eeb18e0ef6, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Villager
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 935be904b99fdd54889241fb49557f36, type: 2}
+    text: Tulongan mo kami, Dayo...
+  - speaker: {fileID: 11400000, guid: 935be904b99fdd54889241fb49557f36, type: 2}
+    text: May Mambabarang na nagsumpa sa aming buong nayon!
+  - speaker: {fileID: 11400000, guid: 935be904b99fdd54889241fb49557f36, type: 2}
+    text: Nandoon siya sa dulo ng nayon, pero hindi na kami makaalis! Kinulong niya
+      kami. Nag dilim ang buong paligid!
+  - speaker: {fileID: 11400000, guid: c466a79144efb6a4e92c8fed8e3daebf, type: 2}
+    text: Dayo, upang mahanap ang mambabarang...
+  - speaker: {fileID: 11400000, guid: c466a79144efb6a4e92c8fed8e3daebf, type: 2}
+    text: Kailangan muna nating makalabas sa nayon na ito.
+  options: []
+  isRewardDialogue: 0
+  sceneToLoad: 
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 1
+  questToUnlock: {fileID: 11400000, guid: c0676d8ac983023459a1f84f012d6922, type: 2}
+  requiredObjectiveID: 
+  requiredObjectiveAmount: 0

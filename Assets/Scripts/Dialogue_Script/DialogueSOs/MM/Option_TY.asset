@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Option_TY
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Seryoso?!
+  - speaker: {fileID: 11400000, guid: 38d7c7c090bb2384d8e701834caf9ed4, type: 2}
+    text: Thank you po!
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Wala 'yun.
+  - speaker: {fileID: 11400000, guid: c70c815f81ef94d49a4ac61fe4a6b684, type: 2}
+    text: Wag mo lang sanang gamitin sa gulo.
+  options:
+  - optionText: OK
+    nextDialogue: {fileID: 11400000, guid: 66c1a0c6278e9944288d459cd0e9ed6d, type: 2}
+  isRewardDialogue: 0
+  sceneToLoad: 
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}

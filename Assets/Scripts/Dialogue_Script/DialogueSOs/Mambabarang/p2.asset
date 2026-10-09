@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: p2
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 935be904b99fdd54889241fb49557f36, type: 2}
+    text: Malapit ka na sa lugar ng Mambabarang, Dayo.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: 935be904b99fdd54889241fb49557f36, type: 2}
+    text: Bago ka makapunta doon, kailangan mo munang talunin lahat ng insekto.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  options: []
+  isRewardDialogue: 0
+  sceneToLoad: 
+  postDialogueImages: []
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 1
+  questToUnlock: {fileID: 11400000, guid: fdccd18aa0c0a774883d600c6fa7943d, type: 2}
+  requiredObjectiveID: 
+  requiredObjectiveAmount: 0

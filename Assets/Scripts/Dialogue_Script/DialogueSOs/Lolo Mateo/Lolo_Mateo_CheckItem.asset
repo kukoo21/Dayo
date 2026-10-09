@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Lolo_Mateo_CheckItem
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Kumusta ang paghahanap mo?
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Tingnan natin kung anong nakita mo.
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: ...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: 'Isang wedding dress... '
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: 'Isang bouquet... '
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: At love letter?
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: 'Hmm. Itong mga ''to... connected lahat. '
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Mukhang may kinalaman sila sa isang kasal.
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Hmm...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Makinig ka, Dayo...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Magkita tayo sa lumang simbahan, para malaman natin ang buong istorya.
+  options: []
+  isRewardDialogue: 0
+  sceneToLoad: White Lady - To Church
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems:
+  - {fileID: 1226128883183891672, guid: a4757f8327ab012428d1101d8c008898, type: 3}
+  - {fileID: 8165143563035457691, guid: 5941c0a96116bc24bb37b7809c6037ba, type: 3}
+  - {fileID: 498971297978497139, guid: d5060aeaa253ccc4d99c538420023f79, type: 3}
+  unlocksQuest: 1
+  questToUnlock: {fileID: 11400000, guid: a8b2286d634cc164ab015ddee60c7d5b, type: 2}

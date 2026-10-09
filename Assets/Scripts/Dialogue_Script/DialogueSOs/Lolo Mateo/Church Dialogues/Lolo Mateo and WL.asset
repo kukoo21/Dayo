@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Lolo Mateo and WL
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 7b74c278d0e28624f91a197632ab664a, type: 2}
+    text: "She\u2019s in pain, Lolo. We have to talk to her."
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: ...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Maria...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Is that you?
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: "It\u2019s me, Mateo."
+  - speaker: {fileID: 11400000, guid: e1f075e3763db8f468b058b08bb83572, type: 2}
+    text: No!...
+  - speaker: {fileID: 11400000, guid: e1f075e3763db8f468b058b08bb83572, type: 2}
+    text: You are old. My Mateo left me at the altar!...
+  - speaker: {fileID: 11400000, guid: e1f075e3763db8f468b058b08bb83572, type: 2}
+    text: He abandoned me to die of a broken heart!
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: I never abandoned you Maria...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: On that day...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: The soldiers took our village. I was dragged to the camps.
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: I screamed your name until my voice was gone.
+  - speaker: {fileID: 11400000, guid: e1f075e3763db8f468b058b08bb83572, type: 2}
+    text: You...
+  - speaker: {fileID: 11400000, guid: e1f075e3763db8f468b058b08bb83572, type: 2}
+    text: You didn't run away?
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: I fought for years just to get back here...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: But I was too late.
+  - speaker: {fileID: 11400000, guid: e1f075e3763db8f468b058b08bb83572, type: 2}
+    text: You came back?
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: My heart never left, Maria.
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Please...
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Rest now.
+  options: []
+  isRewardDialogue: 0
+  sceneToLoad: 
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}

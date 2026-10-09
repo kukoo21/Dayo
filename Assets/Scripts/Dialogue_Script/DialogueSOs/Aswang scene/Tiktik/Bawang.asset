@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Bawang
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 6ef38940e31648045bb9f5f8654c24fa, type: 2}
+    text: ...
+  - speaker: {fileID: 11400000, guid: 7b74c278d0e28624f91a197632ab664a, type: 2}
+    text: Bawang?
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Ang mga ito ang pinaka-ayaw nila. Gamitin mo ito, kapang nahanap mo sila,
+      Dayo! Siguradong aalis sila!
+  options: []
+  isRewardDialogue: 0
+  sceneToLoad: 
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 1
+  questToUnlock: {fileID: 11400000, guid: 5c2de1a1d18ef3946ab35982ef3bfec6, type: 2}
+  requiredObjectiveID: 
+  requiredObjectiveAmount: 0

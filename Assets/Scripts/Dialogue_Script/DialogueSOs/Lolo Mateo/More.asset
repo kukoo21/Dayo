@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: More
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 7b74c278d0e28624f91a197632ab664a, type: 2}
+    text: Ikuwento mo pa.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  - speaker: {fileID: 11400000, guid: 61e7f43cae00f11418622f8afd207916, type: 2}
+    text: Nararamdaman ko na nandoon pa rin ang lungkot niya kaya hindi siya matahimik.
+    dialogueImage: {fileID: 0}
+    imageSize: {x: 200, y: 200}
+    imageOffset: {x: 0, y: 0}
+  options:
+  - optionText: What to do?
+    nextDialogue: {fileID: 11400000, guid: ee03f7b646f38ac4b8d7c54c9f2b7d2f, type: 2}
+  isRewardDialogue: 0
+  sceneToLoad: 
+  postDialogueImages: []
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}
+  requiredObjectiveID: 
+  requiredObjectiveAmount: 0

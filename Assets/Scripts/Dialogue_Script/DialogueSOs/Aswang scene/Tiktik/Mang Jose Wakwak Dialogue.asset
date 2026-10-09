@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e12fb904daf4cd44a96a85ebbc64e0f, type: 3}
+  m_Name: Mang Jose Wakwak Dialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Salamat sa pagtaboy mo sa mga Tiktik, Dayo.
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Doon naman tayo pumunta sa lugar ng Wakwak.
+  - speaker: {fileID: 11400000, guid: 7b74c278d0e28624f91a197632ab664a, type: 2}
+    text: ...
+  - speaker: {fileID: 11400000, guid: 7b74c278d0e28624f91a197632ab664a, type: 2}
+    text: Wakwak?
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Oo, Dayo.
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Ang wakwak ay uri ng Aswang na humihiwalay ang kalahati ng katawan.
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Marami sa aming mga kanayon ang naging biktima magmula nang sumalakay ang
+      Wakwak.
+  - speaker: {fileID: 11400000, guid: f1c6f9ba3a5c9f34194f3c27b8504472, type: 2}
+    text: Dapat mong talunin ang Wakwak para tuluyan nang magwakas ang paghihirap
+      namin!
+  options: []
+  isRewardDialogue: 0
+  sceneToLoad: Wakwak
+  unlocksCodexEntry: 0
+  codexEntryID: 
+  rewardIcon: {fileID: 0}
+  givesItemReward: 0
+  rewardItemPrefab: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  unlocksQuest: 0
+  questToUnlock: {fileID: 0}
+  requiredObjectiveID: Find_tiktik
+  requiredObjectiveAmount: 2
