@@ -85,6 +85,8 @@ Download and play the game on [itch.io](https://pedro-parker.itch.io/dayo).
 ## Author
 
 **John Michael G. Magdael**
-BS Information Technology, STI College Kalibo (2026)
+BS Information Technology
+STI College Kalibo (2026)
 Email: jmmagdael4k@gmail.com
 GitHub: [kukoo21](https://github.com/kukoo21)
+itch.io: [Pedro_Parker](https://pedro-parker.itch.io)
