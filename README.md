@@ -16,12 +16,12 @@ Dayo follows Pedro, a skeptical city boy who accidentally binds an ancient Anito
 - **Action combat:** fight folklore creatures with health bars and use a hotbar of abilities with cooldowns
 - **Ability system:** upgradeable abilities with level, damage, type (e.g., area of effect), and cooldown stats, such as the *Latigo* spin attack
 - **Riddle encounters:** answer *bugtong* (Filipino riddles) by typing in the answer to progress through a chapter
-- **Enkantaryo:** an in-game bestiary that records the origin, appearance, and background of each creature Pedro encounters
+- **Enkantaryo:** an in-game codex that records the origin, appearance, and background of each creature Pedro encounters
 - **Dialogue system:** NPC conversations with a skip option
 - **Player progression:** maximum health grows as the story advances
 - **Inventory and menu system:** tabbed menu for Ability, Inventory, Quest, and Enkantaryo
 - **Save/load system:** player progress is stored and restored using JSON
-- **Original art:** characters, creatures, environments, and UI created for the game
+- **Original art:** characters, creatures, and UI created for the game
 
 ## Screenshots
 
@@ -38,7 +38,7 @@ Dayo follows Pedro, a skeptical city boy who accidentally binds an ancient Anito
 
 | Chapter | Title | Objective |
 |---------|-------|-----------|
-| 1 | Tangis ng Pagibig | [Find hidden objects] |
+| 1 | Tangis ng Pagibig | Find hidden objects |
 | 2 | Gabi ng mga Zombie | Defeat the Amaranhig |
 | 3 | Gubat ng Pandaraya | Answer the riddles correctly |
 | 4 | Gabi ng Lagim | Defeat the Wakwak |
