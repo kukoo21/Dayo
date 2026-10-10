@@ -82,11 +82,15 @@ Download and play the game on [itch.io](https://pedro-parker.itch.io/dayo).
 - John Michael Magdael (Programmer/Game Artist)
 - Kevin Novilla (Level Designer)
 - Abegail Tulio (Narrative Designer)
-## Author
+  
+## DISCLAIMER
+Dayo was developed as a capstone project at STI College Kalibo and is still a work in progress that I continue to develop. 
+As a student project, it may contain bugs or unfinished content, so please manage your expectations.
 
-**John Michael G. Magdael**
-BS Information Technology
-STI College Kalibo (2026)
-Email: jmmagdael4k@gmail.com
-GitHub: [kukoo21](https://github.com/kukoo21)
+## Author
+**John Michael G. Magdael**\
+BS Information Technology\
+STI College Kalibo (2026)\
+Email: jmmagdael4k@gmail.com\
+GitHub: [kukoo21](https://github.com/kukoo21)\
 itch.io: [Pedro_Parker](https://pedro-parker.itch.io)
